@@ -1,5 +1,5 @@
 {
-  "name": "vue-bulma",
+  "name": "@mergeforward/vue-bulma",
   "private": true,
   "workspaces": [
     "packages/*"
