@@ -2,7 +2,7 @@
   "name": "@mergeforward/vue-bulma",
   "private": true,
   "workspaces": [
-    "packages/*"
+    "packages/mergeforward/*"
   ],
   "devDependencies": {
     "@vue/cli-service": "^3.3.0",
