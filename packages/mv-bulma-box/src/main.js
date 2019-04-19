@@ -1,7 +1,7 @@
 import './style.scss'
 
 export default {
-  name: 'vb-box',
+  name: 'mv-box',
   render(h) {
     return h(
       'div',

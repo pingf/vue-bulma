@@ -1,5 +1,5 @@
 export default {
-  name: 'vb-button-addons',
+  name: 'mv-button-addons',
   render(h) {
     const { default: nodes = [] } = this.$slots
     return h(

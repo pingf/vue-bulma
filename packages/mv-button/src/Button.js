@@ -1,10 +1,10 @@
-import { button as colorProps } from 'vue-bulma-common/src/mixins/color.js'
-import sizeProps from 'vue-bulma-common/src/mixins/size.js'
+import { button as colorProps } from 'mv-bulma-common/src/mixins/color.js'
+import sizeProps from 'mv-bulma-common/src/mixins/size.js'
 
 const STATES = ['loading', 'active', 'focused', 'hovered', 'static']
 
 export default {
-  name: 'vb-button',
+  name: 'mv-button',
   inject: {
     vbFormItem: {
       default: ''

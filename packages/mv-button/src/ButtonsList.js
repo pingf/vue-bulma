@@ -1,7 +1,7 @@
-import alignProps from 'vue-bulma-common/src/mixins/align.js'
+import alignProps from 'mv-bulma-common/src/mixins/align.js'
 
 export default {
-  name: 'vb-buttons-list',
+  name: 'mv-buttons-list',
   mixins: [alignProps],
   props: {
     addons: Boolean

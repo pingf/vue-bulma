@@ -1,5 +1,5 @@
 export default {
-  name: 'vb-button-group',
+  name: 'mv-button-group',
   render(h) {
     const { default: nodes = [] } = this.$slots
     return h(
