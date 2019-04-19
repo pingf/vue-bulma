@@ -34,12 +34,7 @@
 // // Elements
 // export { default as Box } from 'vue-bulma-box'
 
-export {
-  Button,
-  ButtonAddons,
-  ButtonGroup,
-  ButtonsList
-} from '@mergeforward/vue-bulma-button'
+export { Button, ButtonAddons, ButtonGroup, ButtonsList } from 'mv-bulma-button'
 
 // export { default as Content } from 'vue-bulma-content'
 
