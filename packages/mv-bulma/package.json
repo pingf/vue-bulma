@@ -1,5 +1,5 @@
 {
-  "name": "@mergefoward/vue-bulma",
+  "name": "mv-bulma",
   "version": "0.1.0",
   "description": "A modern UI framework based on Vue and Bulma(fork)",
   "keywords": [
@@ -21,6 +21,6 @@
     "url": "https://github.com/vue-bulma/pingf/issues"
   },
   "dependencies": {
-    "@mergeforward/vue-bulma-box": "^0.1.0"
+    "mv-bulma-box": "^0.1.0"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@mergeforward/vue-bulma-button",
+  "name": "mv-bulma-button",
   "version": "0.1.0",
   "description": "The classic button, in different colors, sizes, and states",
   "keywords": [
@@ -16,6 +16,6 @@
   ],
   "dependencies": {
     "bulma": "^0.7.2",
-    "@mergeforward/vue-bulma-common": "^0.1.0"
+    "mv-bulma-common": "^0.1.0"
   }
 }
