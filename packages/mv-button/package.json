@@ -1,6 +1,6 @@
 {
   "name": "mv-bulma-button",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "The classic button, in different colors, sizes, and states",
   "keywords": [
     "vue",
