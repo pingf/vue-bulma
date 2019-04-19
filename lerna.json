@@ -3,6 +3,7 @@
   "packages": [
     "packages/@mergeforward/vue-bulma",
     "packages/@mergeforward/vue-bulma-button",
+    "packages/@mergeforward/vue-bulma-common"
   ],
   "useWorkspaces": true,
   "version": "0.0.0"
