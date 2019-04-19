@@ -1,7 +1,8 @@
 {
   "npmClient": "yarn",
   "packages": [
-    "packages/*"
+    "packages/@mergeforward/vue-bulma",
+    "packages/@mergeforward/vue-bulma-button",
   ],
   "useWorkspaces": true,
   "version": "0.0.0"

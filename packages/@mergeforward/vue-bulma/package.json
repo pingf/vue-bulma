@@ -1,13 +1,13 @@
 {
   "name": "@mergefoward/vue-bulma",
-  "version": "0.0.0",
-  "description": "A modern UI framework based on Vue and Bulma",
+  "version": "0.1.0",
+  "description": "A modern UI framework based on Vue and Bulma(fork)",
   "keywords": [
     "vue",
     "bulma"
   ],
-  "author": "Fangdun Cai <cfddream@gmail.com>",
-  "homepage": "https://github.com/vue-bulma/vue-bulma",
+  "author": "Jesse MENG <pingf0@gmail.com>",
+  "homepage": "https://github.com/pingf/vue-bulma",
   "license": "MIT",
   "main": "src/main.js",
   "files": [
@@ -15,45 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vue-bulma/vue-bulma.git"
+    "url": "git+https://github.com/pingf/vue-bulma.git"
   },
   "bugs": {
-    "url": "https://github.com/vue-bulma/vue-bulma/issues"
+    "url": "https://github.com/vue-bulma/pingf/issues"
   },
   "dependencies": {
-    "vue-bulma-box": "^0.0.0",
-    "vue-bulma-breadcrumb": "^0.0.0",
-    "vue-bulma-button": "^0.0.0",
-    "vue-bulma-card": "^0.0.0",
-    "vue-bulma-checkbox": "^0.0.0",
-    "vue-bulma-columns": "^0.0.0",
-    "vue-bulma-container": "^0.0.0",
-    "vue-bulma-content": "^0.0.0",
-    "vue-bulma-delete": "^0.0.0",
-    "vue-bulma-dropdown": "^0.0.0",
-    "vue-bulma-footer": "^0.0.0",
-    "vue-bulma-form": "^0.0.0",
-    "vue-bulma-hero": "^0.0.0",
-    "vue-bulma-icon": "^0.0.0",
-    "vue-bulma-image": "^0.0.0",
-    "vue-bulma-input": "^0.0.0",
-    "vue-bulma-level": "^0.0.0",
-    "vue-bulma-media-object": "^0.0.0",
-    "vue-bulma-menu": "^0.0.0",
-    "vue-bulma-message": "^0.0.0",
-    "vue-bulma-modal": "^0.0.0",
-    "vue-bulma-navbar": "^0.0.0",
-    "vue-bulma-notification": "^0.0.0",
-    "vue-bulma-pagination": "^0.0.0",
-    "vue-bulma-progress": "^0.0.0",
-    "vue-bulma-radio": "^0.0.0",
-    "vue-bulma-section": "^0.0.0",
-    "vue-bulma-select": "^0.0.0",
-    "vue-bulma-tabs": "^0.0.0",
-    "vue-bulma-tag": "^0.0.0",
-    "vue-bulma-textarea": "^0.0.0",
-    "vue-bulma-tile": "^0.0.0",
-    "vue-bulma-title": "^0.0.0",
-    "vue-bulma-uploader": "^0.0.0"
+    "@mergeforward/vue-bulma-box": "^0.1.0"
   }
 }
